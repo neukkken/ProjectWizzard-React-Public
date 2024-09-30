@@ -67,7 +67,7 @@ const ProfileView = () => {
     const fetchProyects = async () => {
       try {
         const response = await axios.get(
-          `${VITE_API_URL}/mis-proyectos`,
+          `${VITE_API_URL}/proyectos/mis-proyectos`,
           {
             headers: {
               Authorization: `Bearer ${token}`,

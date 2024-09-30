@@ -283,9 +283,9 @@ export default function Home() {
             <div className="containerOurTeam">
               <OutTeamCard nombre={"Santiago Narvaez Lasso"} rol={"Desarrollador FrontEnd"} urlIg={"https://www.instagram.com/_mxxn.js/"} urlGithub={""}/>
               <OutTeamCard nombre={"Darwin Steven Gómez Camayo"} rol={"Desarrollador Backend"} urlIg={"https://www.instagram.com/el_darwon/"} urlGithub={"https://github.com/ElDarwon123"}/>
-              <OutTeamCard nombre={"Jossie Fernando Aranda"} rol={"Desarrollador FrontEnd"} urlIg={""} urlGithub={"https://github.com/JOSSIE2463"}/>
-              <OutTeamCard nombre={"Esthefani Ibarra Rodríguez"} rol={"Desarrolladora FrontEnd"} urlIg={""} urlGithub={"https://github.com/sthefa2907"}/>
-              <OutTeamCard nombre={"Andrea Yulieth Salazar Pérez"} rol={"Desarrolladora Movil"} urlIg={""} urlGithub={"https://github.com/Andreasalazar31"}/>
+              <OutTeamCard nombre={"Jossie Fernando Aranda"} rol={"Desarrollador FrontEnd"} urlIg={"https://www.instagram.com/ferchoarand/"} urlGithub={"https://github.com/JOSSIE2463"}/>
+              <OutTeamCard nombre={"Esthefani Ibarra Rodríguez"} rol={"Desarrolladora FrontEnd"} urlIg={"https://www.instagram.com/sthefa__2907/"} urlGithub={"https://github.com/sthefa2907"}/>
+              <OutTeamCard nombre={"Andrea Yulieth Salazar Pérez"} rol={"Desarrolladora Movil"} urlIg={"https://www.instagram.com/andrea.salazar35/"} urlGithub={"https://github.com/Andreasalazar31"}/>
               <OutTeamCard nombre={"Edinson Ferney Becoche"} rol={"Desarrollador Movil"} urlIg={""} urlGithub={"https://github.com/Edinson2005"}/>
               <OutTeamCard nombre={"Kevin Danilo López"} rol={"Desarrollador"} urlIg={""} urlGithub={""}/>
             </div>
