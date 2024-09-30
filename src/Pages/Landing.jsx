@@ -282,7 +282,7 @@ export default function Home() {
             <h2>Nuestro Equipo</h2>
             <div className="containerOurTeam">
               <OutTeamCard nombre={"Santiago Narvaez Lasso"} rol={"Desarrollador FrontEnd"} urlIg={"https://www.instagram.com/_mxxn.js/"} urlGithub={""}/>
-              <OutTeamCard nombre={"Darwin Steven Gómez Camayo"} rol={"Desarrollador Backend"} urlIg={""} urlGithub={"https://github.com/ElDarwon123"}/>
+              <OutTeamCard nombre={"Darwin Steven Gómez Camayo"} rol={"Desarrollador Backend"} urlIg={"https://www.instagram.com/el_darwon/"} urlGithub={"https://github.com/ElDarwon123"}/>
               <OutTeamCard nombre={"Jossie Fernando Aranda"} rol={"Desarrollador FrontEnd"} urlIg={""} urlGithub={"https://github.com/JOSSIE2463"}/>
               <OutTeamCard nombre={"Esthefani Ibarra Rodríguez"} rol={"Desarrolladora FrontEnd"} urlIg={""} urlGithub={"https://github.com/sthefa2907"}/>
               <OutTeamCard nombre={"Andrea Yulieth Salazar Pérez"} rol={"Desarrolladora Movil"} urlIg={""} urlGithub={"https://github.com/Andreasalazar31"}/>
